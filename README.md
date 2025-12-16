@@ -1,10 +1,8 @@
 <div align="center">
 
-  ![Bannière](https://github.com/user-attachments/assets/a7972ccf-420b-4176-a227-5fe395eed010)
+![c57b9695ca6ebab91ef8864a76b744d2](https://github.com/user-attachments/assets/caa0042a-0197-43b8-b08c-f3a85f146ab1)
 
   # Hi there! | I'm Ilyes
-
-  ###  Coding enthusiast & constant learner
 
   <p>
     I am passionate about technology and currently focusing on learning new skills. <br>
